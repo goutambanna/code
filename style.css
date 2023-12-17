@@ -22,7 +22,7 @@ font-size:3em;
    text-decoration:none;
    font-weight: bolder;
 }
-@media(max-width:390px)
+@media(max-width:400px)
 {
 
    .a1{
@@ -44,7 +44,7 @@ background-size: cover;
 
 
 }
-@media( max-width:390px){
+@media( max-width:400px){
 
   #n1 {
 height:200px;
@@ -60,7 +60,7 @@ width:200px;
    
 }
 
-   @media(max-width:390px){
+   @media(max-width:400px){
 .g1{
    
    width:150px;
@@ -100,7 +100,7 @@ border-radius:10px;
       height:350px;
       width:350px;
       border-radius:30px;
-   }@media(max-width:390px){
+   }@media(max-width:400px){
       #n5{
          height:130px;
          width:130px;
@@ -117,7 +117,7 @@ border-radius:10px;
    width:500px;
    border-radius:50%;
 }
-@media(max-width:390px){
+@media(max-width:400px){
 
    #n6{
       height:250px;
@@ -136,7 +136,7 @@ border-radius:10px;
    width:500px;
    border-radius:50%;
 
-}@media(max-width:390px)
+}@media(max-width:400px)
 {
    #n7{
       height:250px;
@@ -168,7 +168,7 @@ height:1000px;
 
 
 }
-@media(max-width:390px){
+@media(max-width:400px){
 
    #n8{
 
@@ -216,7 +216,7 @@ justify-content:center;
 
 font-size:3em;
 }
-@media(max-width:390px){
+@media(max-width:400px){
 
 #contect{
    height:50px;
@@ -233,7 +233,7 @@ display:flex;
 color:white;
 justify-content:space-evenly;
 
-}@media(max-width:390px){
+}@media(max-width:400px){
    #footer2{
       height:100px;
    }
