@@ -92,8 +92,8 @@ border-radius:10px;
    border-radius:30px;}
    @media(max-width:300px){
       #n4{
-         height:130px;
-         width:130px;
+         height:100px;
+         width:100px;
       }
    }
    #n5{
@@ -102,8 +102,8 @@ border-radius:10px;
       border-radius:30px;
    }@media(max-width:300px){
       #n5{
-         height:130px;
-         width:130px;
+         height:100px;
+         width:100px;
       }
    }
 
